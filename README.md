@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chugil.C
-![](https://pbs.twimg.com/profile_banners/1053968660459532288/1592320148/600x200)
+![](https://pbs.twimg.com/profile_banners/1053968660459532288/1592320148/600x600)
 
 A Front-End Developer Currently pursuing  Electrical and Electronics Engineering
 
