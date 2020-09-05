@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Chugil.C
 A Front-End Developer Currently pursuing  Electrical and Electronics Engineering
 
-Skills:  JS / HTML / CSS /  GIT
+Skills:  JS / HTML / CSS /  GIT   
 
 - 🌱 I’m currently learning React.JS 
 
