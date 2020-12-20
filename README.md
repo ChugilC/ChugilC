@@ -4,7 +4,7 @@ A Front-End Developer Currently pursuing  Electrical and Electronics Engineering
 
 Skills:  JS / HTML / CSS /  GIT  /  Adobe XD
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chugilc&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chugilc)](https://github.com/chugilc/github-readme-stats)
