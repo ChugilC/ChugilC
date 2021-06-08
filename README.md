@@ -5,5 +5,3 @@ A Front-End Developer Currently pursuing  Electrical and Electronics Engineering
 Skills:  JS / HTML / CSS 
 
 - 🌱 I’m currently learning Python
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chugilc&show_icons=true&theme=dark)
