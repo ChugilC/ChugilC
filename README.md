@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Chugil.C
+### Ello there 👋, I'm Chugil.C
 Check out my website [ChugilC](https://chugilc.netlify.app/)
 ## Connect with me on 🤠
 * [Twitter](https://twitter.com/chugilcr)
